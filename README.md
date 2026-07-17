@@ -1,19 +1,37 @@
-# JS Portfolio Website
+﻿# Portfolio (Classic)
 
+> Earlier React portfolio with animated particles background, GitHub contribution calendar, and project showcase cards. Deployed on Vercel with responsive layout and social links â€” the first public developer portfolio iteration.
 
-## 🚀 How to get started?
+## Overview
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+| | |
+|---|---|
+| **Year** | 2024 |
+| **Category** | portfolios |
+| **Author** | [Mohamed Gharab](https://portfolio-mohamed-gh.vercel.app) |
 
-## 🛠 Installation and Setup Instructions
+## Links
 
-1. Installation: `npm install`
+- **Live demo:** https://portfoliomohamed.vercel.app
+- **Repository:** https://github.com/MOHAMMED75G/portfolio-mohamed
+- **Portfolio:** https://portfolio-mohamed-gh.vercel.app/projects/portfolio-mohamed
 
-2. In the project directory, you can run: `npm start`
+## Tech Stack
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser. 
-The page will reload if you make edits.
+- React
+- Particles.js
+- Vercel
+- Portfolio
 
-<br />
-Feel free to contribute to this repo.
+## About the Author
+
+**Mohamed Gharab** - Full-Stack Software Engineer at TrustDev (ERPNext, fintech, document AI).  
+ENSI graduate (June 2025) - French and English.
+
+- Portfolio: https://portfolio-mohamed-gh.vercel.app
+- GitHub: https://github.com/MOHAMMED75G
+- LinkedIn: https://linkedin.com/in/mohamed-gharab-4a4b0825a
+- Email: mohamed.gharab@ensi-uma.tn
+
+---
+*README auto-generated from portfolio data - 2024*
